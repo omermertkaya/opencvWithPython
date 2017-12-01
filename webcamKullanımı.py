@@ -8,7 +8,7 @@ while True:   # bu while dongusu sayesinde ekran olusturulur
 
     cv2.imshow('frame',frame)
 
-    if cv2.waitKey(1) & 0xFF == ord('q'):  #ekranda q tusuna basıldığında sona erdirir.
+    if cv2.waitKey(1) & 0xFF == ord('q'):  #q tusuna basıldığında sona erdirir.
         break
 
 cap.release()
