@@ -13,3 +13,13 @@ while True:   # bu while dongusu sayesinde ekran olusturulur
 
 cap.release()
 cv2.destroyAllWindows()
+
+
+#.
+#..
+#...
+#Pencere icersinde web kamerasindan aldıgımız goruntleri gosterme.
+#...
+#..
+#.
+#omermertkaya
